@@ -50,3 +50,11 @@ function main() {
 
     console.log(getSecondLargest(nums));
 }
+
+
+/* Input*/
+//5
+//2 3 6 6 5
+
+/*Output*/
+//5
