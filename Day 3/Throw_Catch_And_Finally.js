@@ -42,3 +42,10 @@ function main() {
 
     reverseString(s);
 }
+
+/*
+"1234" O/P 4321
+Number(1234)
+ O/P s.split is not a function
+1234
+ */
