@@ -45,3 +45,20 @@ function main() {
 
     vowelsAndConsonants(s);
 }
+//Input:- javascriptloops
+/* Output-
+a
+a
+i
+o
+o
+j
+v
+s
+c
+r
+p
+t
+l
+p
+s*/
