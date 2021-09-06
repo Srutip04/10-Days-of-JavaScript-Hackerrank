@@ -35,8 +35,8 @@ function readLine() {
 function getCount(objects) {
     let n = 0;
     for (let o of objects) {
-        n += (o.x == o.y);
-    }
+        n += (o.x == o.y); //returns either true or false.When we add that to n which is an integer its get converted to integer as well.
+    }                      //This way we're counting the amount of true returned.
     return n;
 }
 
