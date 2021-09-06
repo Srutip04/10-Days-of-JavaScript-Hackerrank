@@ -58,6 +58,9 @@ function main() {
 // Other approach
 /* function getCount(objects) {
     var ctr = 0;
+    let o=objects[i];
+    let x=o[0];
+    let y=o[1];
     for(var i=0; i<objects.length; i++){
       if(objects[i].x == objects[i].y) {
         ctr++;
