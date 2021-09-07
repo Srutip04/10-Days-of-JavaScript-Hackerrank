@@ -39,3 +39,15 @@ function main() {
         console.log(getDayName(date));
     }
 }
+
+/*
+Input:-
+ 2
+10/11/2009
+11/10/2010
+
+
+Output:-
+Sunday
+Wednesday
+*/
