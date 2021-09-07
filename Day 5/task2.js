@@ -51,3 +51,5 @@ function main() {
     console.log((s1 === x) ? s1 : -1);
     console.log((s2 === y) ? s2 : -1);
 }
+//Input:- 10 14
+//Output: 10 14
