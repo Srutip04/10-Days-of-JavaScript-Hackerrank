@@ -39,3 +39,4 @@ function main() {
 
     console.log(modifyArray(a).toString().split(',').join(' '));
 }
+//3 4 9 8 15
