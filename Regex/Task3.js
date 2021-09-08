@@ -1,8 +1,4 @@
-/*
-        g is used for global search, search
-        for input 999.99 it will give an 
-        output as split as 999, 99
-*/
+
 'use strict';
 
 process.stdin.resume();
@@ -33,6 +29,11 @@ function regexVar() {
      * It must match ALL occurrences of numbers in a string.
      */
     let re = /[0-9]+/g;
+    /*
+    g is used for global search, search
+    for input 999.99 it will give an 
+    output as split as 999, 99
+    */
 
     /*
      * Do not remove the return statement
